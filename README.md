@@ -8,6 +8,7 @@ En este repositorio se encuentra el archivo que contiene el informe del trabajo.
   * 'geo_export_c70de887-6264-4a56-8002-525083272f7a.shp': es un *shape file* con los datos de los boundaries de Chicago.
 * 'documentación': 
   * 'Airbnb.pdf': contiene información sobre las variables de la base de datos.
+* 'latex': esta carpeta tiene el archivo .tex con el que se produce el informe.
 * 'output': contiene archivos .shp que exportamos una vez construidas las bases de datos a partir de los datos originales. 
   * 'data_merge.shp': datos modificados de Chicago.
   * 'basas_nbi_unemo.shp': datos modificados de la Provincia de Buenos Aires.
@@ -20,4 +21,3 @@ En este repositorio se encuentra el archivo que contiene el informe del trabajo.
   * 'Chicago_Hist_Precio': histograma del precio por persona de los Airbnbs en dólares.
   * 'Pcia_BsAs_Desempleo': mapa de la Provincia de Buenos Aires que muestra la distribución de la tasa de desempleo por partido.
   * 'Pcia_BsAs_NBI': mapa de la Provincia de Buenos Aires que muestra la distribución del porcentaje de hogares que tienen algún indicador de necesidades básicas insatisfechas.
-* 'latex': esta carpeta tiene el archivo .tex con el que se produce el informe.
