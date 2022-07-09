@@ -4,4 +4,4 @@ En este repositorio se encontrará la resolución del segundo problem set corres
 
 En este repositorio se encuentran las siguientes carpetas con los siguientes archivos:
 * 'tarea.csv': es un archivo delimitado de texto que contiene la base de datos a utilizar.
-** hola
+  * hola
