@@ -19,4 +19,4 @@ En este repositorio se encuentran las siguientes carpetas:
   * 'Chicago_Scatter_PrecioCrimenes': diagrama de dispersión que muestra la relación entre el precio por persona de los Airbnb y la criminalidad cada 100.000 habitantes.
   * 'Chicago_Hist_Precio': histograma del precio por persona de los Airbnbs en dólares.
   * 'Pcia_BsAs_Desempleo': mapa de la Provincia de Buenos Aires que muestra la distribución de la tasa de desempleo por partido.
-  * 'Pcia_BsAs_NBI': mapa de la Provincia de Buenos Aires que muestra la distribución del porcentaje de hogares que tienen algún indicador de necesitades básicas insatisfechas.
+  * 'Pcia_BsAs_NBI': mapa de la Provincia de Buenos Aires que muestra la distribución del porcentaje de hogares que tienen algún indicador de necesidades básicas insatisfechas.
