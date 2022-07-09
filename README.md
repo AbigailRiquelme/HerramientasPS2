@@ -2,8 +2,8 @@
 
 En este repositorio se encontrará la resolución del segundo problem set correspondiente a la materia "Herramientas computacionales para la investigación" dictada por la profesora Amelia Gibbons en la Maestría en Economía de la Universidad de San Andrés. Los integrantes del grupo de trabajo somos Abigail Riquelme y Tomás Pacheco.
 
-En este repositorio se encuentran las siguientes carpetas:
-* 'input'. En esta carpeta se encuentran dos archivos que usamos como input para nuestro trabajo
+En este repositorio se encuentra el archivo que contiene el informe del trabajo. Además, se pueden encontrar las siguientes carpetas:
+* 'input'. Esta carpeta contiene los dos archivos que usamos como input para nuestro trabajo
   * 'airbnb_Chicago 2015.dbf': aquí se encuentra la base de datos de los Airbnbs en Chicago para 2015.
   * 'geo_export_c70de887-6264-4a56-8002-525083272f7a.shp': es un *shape file* con los datos de los boundaries de Chicago.
 * 'documentación': 
@@ -20,3 +20,4 @@ En este repositorio se encuentran las siguientes carpetas:
   * 'Chicago_Hist_Precio': histograma del precio por persona de los Airbnbs en dólares.
   * 'Pcia_BsAs_Desempleo': mapa de la Provincia de Buenos Aires que muestra la distribución de la tasa de desempleo por partido.
   * 'Pcia_BsAs_NBI': mapa de la Provincia de Buenos Aires que muestra la distribución del porcentaje de hogares que tienen algún indicador de necesidades básicas insatisfechas.
+* 'latex': esta carpeta tiene el archivo .tex con el que se produce el informe.
